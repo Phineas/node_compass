@@ -1,0 +1,3 @@
+%{
+  "ex_hash_ring": {:hex, :ex_hash_ring, "3.0.0", "da32c83d7c6d964b9537eb52f27bad0a3a6f7012efdc2749e11a5f268b120b6b", [:mix], [], "hexpm"},
+}
