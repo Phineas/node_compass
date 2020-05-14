@@ -25,7 +25,7 @@ worker(NodeCompass, [])
 If you want to add a [node tag](#node-tags), add it to the arguments like this:
 
 ```elixir
-worker(NodeCompass,, ["my_node_tag"])
+worker(NodeCompass, ["my_node_tag"])
 ```
 
 Get a node hostname from a key:
